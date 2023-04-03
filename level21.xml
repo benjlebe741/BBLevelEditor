@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level>
+	<brick>
+		<x>50</x>
+		<y>100</y>
+		<hp>1</hp>
+		<colour>Red</colour>
+	</brick>
+	<brick>
+		<x>50</x>
+		<y>150</y>
+		<hp>1</hp>
+		<colour>Red</colour>
+	</brick>
+	<brick>
+		<x>50</x>
+		<y>200</y>
+		<hp>1</hp>
+		<colour>Red</colour>
+	</brick>
+	<brick>
+		<x>471</x>
+		<y>157</y>
+		<hp>1</hp>
+		<colour>Goldenrod</colour>
+	</brick>
+</level>
