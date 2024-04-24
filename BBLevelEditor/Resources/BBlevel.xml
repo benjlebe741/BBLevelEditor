@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<level>
+  <brick>
+    <x>190</x>
+    <y>45</y>
+    <width>50</width>
+    <height>25</height>
+    <id>5</id>
+  </brick>
+  <brick>
+    <x>246</x>
+    <y>45</y>
+    <width>50</width>
+    <height>25</height>
+    <id>5</id>
+  </brick>
+  <brick>
+    <x>22</x>
+    <y>45</y>
+    <width>50</width>
+    <height>25</height>
+    <id>3</id>
+  </brick>
+  <brick>
+    <x>134</x>
+    <y>45</y>
+    <width>50</width>
+    <height>25</height>
+    <id>5</id>
+  </brick>
+  <brick>
+    <x>78</x>
+    <y>45</y>
+    <width>50</width>
+    <height>25</height>
+    <id>4</id>
+  </brick>
+</level>

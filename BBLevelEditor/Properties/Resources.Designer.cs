@@ -59,5 +59,43 @@ namespace BBLevelEditor.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized string similar to &lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+        ///&lt;level&gt;
+        ///  &lt;brick&gt;
+        ///    &lt;x&gt;190&lt;/x&gt;
+        ///    &lt;y&gt;45&lt;/y&gt;
+        ///    &lt;width&gt;50&lt;/width&gt;
+        ///    &lt;height&gt;25&lt;/height&gt;
+        ///    &lt;id&gt;5&lt;/id&gt;
+        ///  &lt;/brick&gt;
+        ///  &lt;brick&gt;
+        ///    &lt;x&gt;246&lt;/x&gt;
+        ///    &lt;y&gt;45&lt;/y&gt;
+        ///    &lt;width&gt;50&lt;/width&gt;
+        ///    &lt;height&gt;25&lt;/height&gt;
+        ///    &lt;id&gt;5&lt;/id&gt;
+        ///  &lt;/brick&gt;
+        ///  &lt;brick&gt;
+        ///    &lt;x&gt;22&lt;/x&gt;
+        ///    &lt;y&gt;45&lt;/y&gt;
+        ///    &lt;width&gt;50&lt;/width&gt;
+        ///    &lt;height&gt;25&lt;/height&gt;
+        ///    &lt;id&gt;3&lt;/id&gt;
+        ///  &lt;/brick&gt;
+        ///  &lt;brick&gt;
+        ///    &lt;x&gt;134&lt;/x&gt;
+        ///    &lt;y&gt;45&lt;/y&gt;
+        ///    &lt;width&gt;50&lt;/width&gt;
+        ///    &lt;height&gt;25&lt;/height&gt;
+        ///    &lt;id&gt;5&lt;/id&gt;
+        ///  &lt;/ [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string BBlevel {
+            get {
+                return ResourceManager.GetString("BBlevel", resourceCulture);
+            }
+        }
     }
 }
